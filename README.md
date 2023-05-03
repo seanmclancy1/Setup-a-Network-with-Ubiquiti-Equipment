@@ -38,9 +38,6 @@ http://dl-origin.ubnt.com/qsg/UDM-Pro/UDM-Pro_EN.html
 <img src="https://i.imgur.com/L1olHVS.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
-<img src="https://i.imgur.com/YsQLzeX.jpg" alt="Disk Sanitization Steps"/
-<br/>
-<br/>
 <img src="https://i.imgur.com/YsQLzeX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
