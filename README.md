@@ -1,7 +1,7 @@
 # Setup a Network with Ubiquiti Equipment
 Network Walkthrough | Ubiquiti
 <h2>Description</h2>
-Our company uses Ubiquiti products when possible. We are able to set a network up within the Unifi portal very quickly due to the fact that it is easily navigatbale, user friendly, and we can have multiple devices managed in one location. We will be doing a basic walkthrough on how to setup a network, whether it be home or for a business, via this portal. 
+Our company uses Ubiquiti products for networks we setup (when possible). We are able to set a network up within the Unifi portal very quickly due to the fact that it is easily navigable, user friendly, and we can have multiple devices managed in one location. We will be doing a basic walkthrough on how to setup a network, whether it be home or for a business, via this portal. 
 <br />
 
 <h2>Program walk-through:</h2>
