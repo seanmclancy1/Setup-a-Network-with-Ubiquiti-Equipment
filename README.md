@@ -134,7 +134,7 @@ It should now look like this.<br/>
 <br/>
 • Once all devices are adopted, set static Ips.<br/>
 • Go to Network -> Static IP<br/>
-•	IP address= Whatever the AP IP is, should be automatic<br/>
+•	IP address= Set it to whatever IP is available within that range<br/>
 •	Preferred DNS= 9.9.9.9 <br/>
 •	Subnet Mask= 255.255.255.0 <br/>
 •	Gateway=  10.1.150.1 (the MGMT IP Range) <br/>
